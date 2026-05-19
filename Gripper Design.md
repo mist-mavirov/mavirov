@@ -111,9 +111,7 @@ The gripper's design philosophy emphasizes:
 4. **Underwater suitability** through careful material selection (PETG, TPU-95A, carbon fiber)
 5. **Modularity** via clamp-based mounting for both the ROV and the camera
 
-## License
 
-*Add your license here (e.g., MIT, Apache 2.0, CC BY-NC 4.0).*
 
 ## Contributing
 
